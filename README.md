@@ -16,4 +16,4 @@ This is a list of AR/VR tools.
 * [Unreal](https://www.unrealengine.com)
 * [Spark Ar Studio](https://www.sparkar.com/ar-studio/)
 * [Lens Studio](https://lensstudio.snapchat.com/)
-* [Lens Studio](https://www.tobii.com/)
+* [Tobbi](https://www.tobii.com/)
